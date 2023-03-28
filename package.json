@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fredycerna/chatgpt-full-stack-course/issues"
   },
-  "homepage": "https://github.com/fredycerna/chatgpt-full-stack-course#readme"
+  "homepage": "https://github.com/fredycerna/chatgpt-full-stack-course#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
