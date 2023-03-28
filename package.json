@@ -1,0 +1,19 @@
+{
+  "name": "chatgpt-full-stack-course",
+  "version": "1.0.0",
+  "description": "ChatGPT Web Development Code Along - Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredycerna/chatgpt-full-stack-course.git"
+  },
+  "author": "fredycerna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredycerna/chatgpt-full-stack-course/issues"
+  },
+  "homepage": "https://github.com/fredycerna/chatgpt-full-stack-course#readme"
+}
